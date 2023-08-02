@@ -2,7 +2,7 @@
 - 👀 I’m interested in low level programming, Data Engineering, Machine learning and Data Science
 - 🌱 I’m currently learning Data engineering and Machine learning
 - 💞️ I’m looking to collaborate on ... IDK but I want to learn, so anything that could teach me something is good
-- 📫 How to reach me: @FarerABR in almost everywehre
+- 📫 How to reach me: @FarerABR in almost everywhere
 
 <!---
 FarerABR/FarerABR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
